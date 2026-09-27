@@ -431,7 +431,7 @@ function x(t) {
   var e = h();
   p("1avhitu", (y) => {
     r(() => {
-      d.title = "openplace - Terms of Service";
+      d.title = "closeplace - Terms of Service";
     });
   });
   var s = a(e),

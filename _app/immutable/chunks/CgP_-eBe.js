@@ -312,7 +312,7 @@ function ct(a, e) {
               O(v, "href", x),
               g(M, ` ${W ?? ""}`);
           },
-          [() => (k(r) ? y("", k(r)) : "#"), () => we({ name: "openplace" })]
+          [() => (k(r) ? y("", k(r)) : "#"), () => we({ name: "closeplace" })]
         ),
         I(c, i);
     };

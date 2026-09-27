@@ -68,7 +68,7 @@ function M(e, o) {
   var t = I();
   y("1jef3w8", (n) => {
     m(() => {
-      h.title = "openplace - Admin Dashboard";
+      h.title = "closeplace - Admin Dashboard";
     });
   });
   var a = u(s(t), 2),

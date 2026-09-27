@@ -252,7 +252,7 @@ function Ma(m, g) {
   var P = ca();
   Ce("ote4uu", (r) => {
     ze(() => {
-      Oe.title = "openplace - Admin - Mods - Leaderboard";
+      Oe.title = "closeplace - Admin - Mods - Leaderboard";
     });
   });
   var F = t(P),

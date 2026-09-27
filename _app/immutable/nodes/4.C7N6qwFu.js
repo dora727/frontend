@@ -964,9 +964,9 @@ const Qb = () => "Log in",
   G4 = () => "Líder de Comunidade",
   $4 = (_ = {}, o = {}) => ((o.locale ?? ze()) === "en" ? Z4() : G4()),
   H4 = () =>
-    "Your name is how other users will see you in Wplace. It can be changed every 60 days.",
+    "Your name is how other users will see you in closeplace. It can be changed every 60 days.",
   W4 = () =>
-    "Seu nome é como outros usuários o verão no Wplace. Você pode alterá-lo a cada 60 dias.",
+    "Seu nome é como outros usuários o verão no closeplace. Você pode alterá-lo a cada 60 dias.",
   X4 = (_ = {}, o = {}) => ((o.locale ?? ze()) === "en" ? H4() : W4()),
   Y4 = () => "Twitch account migrated successfully.",
   K4 = () => "Conta da Twitch migrada com sucesso.",
@@ -54931,7 +54931,7 @@ function fk(_, o) {
             le(nt, ` ${yt ?? ""}`),
               le(Ke, ` ${mt ?? ""}`),
               gr(Fe, "href", y(L)),
-              gr(Fe, "download", `openplace_${ct ?? ""}.png`),
+              gr(Fe, "download", `closeplace_${ct ?? ""}.png`),
               le(lt, ` ${qt ?? ""}`);
           },
           [
@@ -55436,8 +55436,8 @@ function jk(_, o) {
                 Ve,
                 "src",
                 da.language === "pt"
-                  ? "https://www.youtube.com/embed/AcE85QM4iPQ?si=wbeZD8vxOzvlB_Z9"
-                  : "https://www.youtube.com/embed/xOXtd-WzRxA?si=fHz8Z6ecXGYrDhkN"
+                  ? "https://www.youtube.com/embed/57zRgl00kF0"
+                  : "https://www.youtube.com/embed/57zRgl00kF0"
               ),
               le(ft, ce),
               le(yt, `${ge ?? ""} `),
@@ -73139,7 +73139,7 @@ function RB(_, o) {
   return Math.round(_ * f) / f;
 }
 var FB = me(
-    '<meta property="og:title" content="openplace - A massive real-time pixel art canvas on the world map!"/> <meta name="twitter:title" content="openplace - A massive real-time pixel art canvas on the world map!"/> <meta name="robots" content="index, follow, max-image-preview:large"/> <meta name="color-scheme" content="light only"/>',
+    '<meta property="og:title" content="closeplace - A massive real-time pixel art canvas on the world map!"/> <meta name="twitter:title" content="closeplace - A massive real-time pixel art canvas on the world map!"/> <meta name="robots" content="index, follow, max-image-preview:large"/> <meta name="color-scheme" content="light only"/>',
     1
   ),
   BB = me("<button><!></button>"),
@@ -73719,7 +73719,7 @@ function QO(_, o) {
       var Kt = FB();
       yn(6),
         ab(() => {
-          ob.title = "openplace - Paint the world";
+          ob.title = "closeplace";
         }),
         G(vt, Kt);
     });

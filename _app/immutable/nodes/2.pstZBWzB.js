@@ -81,7 +81,7 @@ function de(e, d) {
   var n = J();
   P("1qg5d05", (r) => {
     R(() => {
-      S.title = "openplace - Admin";
+      S.title = "closeplace - Admin";
     });
   });
   var l = t(n),

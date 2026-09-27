@@ -85,7 +85,7 @@ function _e(e, t) {
   V("bj7zax", (r) => {
     g(
       (o) => {
-        j.title = `openplace - ${o ?? ""}`;
+        j.title = `closeplace - ${o ?? ""}`;
       },
       [() => k()],
       void 0,

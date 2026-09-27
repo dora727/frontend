@@ -456,7 +456,7 @@ function fl(b, d) {
   var Se = Bn();
   sr("14ti4sx", (r) => {
     rr(() => {
-      nr.title = "openplace - Admin - Alliances";
+      nr.title = "closeplace - Admin - Alliances";
     });
   });
   var De = a(Se),

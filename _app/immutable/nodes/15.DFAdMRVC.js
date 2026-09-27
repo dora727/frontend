@@ -366,7 +366,7 @@ function nn(F, G) {
   var Ha = Nr();
   Ls("151n1ss", (l) => {
     $s(() => {
-      As.title = "openplace - Appeals";
+      As.title = "closeplace - Appeals";
     });
   });
   var Ja = t(Ha),
